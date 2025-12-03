@@ -11,16 +11,6 @@
       "id": 1
     },
     {
-      "name": "eererr",
-      "price": 1234,
-      "destination": "dfrtg",
-      "duration": "rhyth",
-      "available": "12",
-      "image": "",
-      "category": "Tour quoc te",
-      "id": 2
-    },
-    {
       "name": "Nguyễn Thành Công",
       "destination": "sfr",
       "duration": "eree4433",
@@ -29,6 +19,13 @@
       "description": "2dewwe",
       "available": 11211,
       "id": 3
+    }
+  ],
+  "users": [
+    {
+      "email": "nhjk@gmail.com",
+      "password": "$2a$10$tR0WiNHub.JGiAEM9oBEu.9xCur97cOIxfkiYuNGawnhkDT5ciqn.",
+      "id": 1
     }
   ]
 }
